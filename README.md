@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there
+  I am a student Dev, you can find my projects that i make during my courses on this GitHub account !
 
 <!--
 **AkbayDev/AkbayDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
